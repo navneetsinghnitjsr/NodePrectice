@@ -1,3 +1,4 @@
+//first of all rename this file to index.js
 const http = require('http');
 
 const hostname = "localhost"; //for host name
